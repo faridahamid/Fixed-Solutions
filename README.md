@@ -40,9 +40,6 @@ cd Task_1
 docker build -t iris-dev -f Dockerfile .
 docker run -p 8501:8501 -p 5000:5000 iris-dev
 ```
-### Live Demo
 
-You can test the deployed Streamlit app here:  
-[Test the Iris Classifier](https://ffb48995a71e.ngrok-free.app/)
 
 
