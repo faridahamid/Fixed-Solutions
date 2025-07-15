@@ -1,6 +1,6 @@
 # Fixed-Solutions Internship
 
-Welcome to the **Fixed-Solutions** Internship repository!  
+This is **Fixed-Solutions-Intern** Internship repository
 This repo documents the practical tasks and solutions developed during the internship experience.
 
 ---
