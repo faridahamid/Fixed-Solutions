@@ -65,9 +65,10 @@ user_input = [sepal_length, sepal_width, petal_length, petal_width]
 if st.button("Predict"):
     try:
         
-        response = requests.post("http://localhost:5000/predict", json={
-            "feature_array": user_input
-        })
+        response = requests.post("http://backend:5000/predict", json={
+    "feature_array": user_input
+})
+
         response.raise_for_status()
         prediction = response.json()["prediction"][0]
 

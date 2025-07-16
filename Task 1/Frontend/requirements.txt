@@ -1,0 +1,10 @@
+flask
+streamlit
+scikit-learn
+matplotlib
+pickleshare
+numpy>=1.21
+pandas
+scipy
+seaborn
+requests
