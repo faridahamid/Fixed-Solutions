@@ -8,7 +8,7 @@ This repo documents practical tasks and solutions developed during the internshi
 ### Based On
 
 This project is **cloned and adapted** from the original repo:  
-👉 [AchilleasKn/flask_api_python](https://github.com/AchilleasKn/flask_api_python)  
+ [AchilleasKn/flask_api_python](https://github.com/AchilleasKn/flask_api_python)  
 We extended and **refactored** it into a full-stack application with:
 
 - A Streamlit frontend
@@ -28,7 +28,7 @@ Build a complete machine learning pipeline that:
 
 ---
 
-### ⚙Technologies:
+### Technologies:
 - Python 3.10  
 - Flask  
 - Streamlit  
@@ -86,7 +86,7 @@ This will run both the backend and frontend containers simultaneously.
 
 ### On Your Local Machine:
 - Streamlit UI: [http://localhost:8501](http://localhost:8501)
-- API Endpoint: [http://localhost:5000/predict](http://localhost:5000/predict)
+- API Endpoint: [http://localhost:5000/predict](http://localhost:5000/predict) (you can use postman to test it)
 
 ### Test on Mobile
 
