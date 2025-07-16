@@ -108,7 +108,7 @@ Visit `http://your-local-ip:8501` from your mobile browser (use `ipconfig` to fi
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Task_1/
