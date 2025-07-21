@@ -3,6 +3,7 @@
  
 This repo documents practical tasks and solutions developed during the internship.
 
+## Task 1: Iris Classification App (Full Stack)
 ---
 
 ### Based On
@@ -17,7 +18,7 @@ We extended and **refactored** it into a full-stack application with:
 
 ---
 
-## Task 1: Iris Classification App (Full Stack)
+
 
 ###  Objective:
 Build a complete machine learning pipeline that:
