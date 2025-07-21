@@ -41,6 +41,33 @@ This repo documents practical tasks and solutions developed during the internshi
 - `README.md` – full explanation and results
 
 ---
+## File Structure
+
+This section outlines the folder and file organization within this repository:
+Fixed-Solutions/
+│
+├── Task 1/ # Full-stack Iris classification project
+│ ├── Backend/ # Flask backend (API)
+│ ├── Frontend/ # Streamlit frontend (UI)
+│ ├── Docker_file.prod # Production Dockerfile
+│ ├── Dockerfile # Development Dockerfile
+│ ├── docker-compose.yml # Docker orchestration
+│ ├── Iris.csv # Dataset used for training
+│ ├── Task 1.ipynb # Notebook for training and testing
+│ └── README.md # Documentation for Task 1
+│
+├── Task 2/ # Customer segmentation project
+│ ├── Model/ # Data and notebook
+│ │ ├── Online Retail.xlsx - Online Retail.csv
+│ │ └── onlineRetailmodel.ipynb # RFM and K-Means analysis
+│ ├── Presentation/ # PowerPoint slides
+│ │ └── Customer Segmentation.pptx
+│ └── README.md # Documentation for Task 2
+│
+└── README.md # Main README for the entire repo
+---
+
+
 
 
 
