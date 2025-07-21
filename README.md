@@ -44,6 +44,7 @@ This repo documents practical tasks and solutions developed during the internshi
 ## File Structure
 
 This section outlines the folder and file organization within this repository:
+```
 Task_1/
 │
 ├── Backend/
@@ -73,7 +74,7 @@ Task_2/
 
 
 README.md  ← main repo documentation
-
+```
 ---
 
 
