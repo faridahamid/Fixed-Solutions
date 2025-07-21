@@ -12,7 +12,7 @@ To analyze customer transactions and **segment customers into meaningful groups*
 
 ## Dataset Description
 
-- **Source:** [UCI Online Retail Dataset]()
+- **Source:** [Online Retail Dataset](./Task-2/Model/Online_Retail.csv)
 - **Records:** ~500,000 transactions  
 - **Period:** Dec 2010 to Dec 2011  
 - **Fields:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
