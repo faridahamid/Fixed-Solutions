@@ -10,7 +10,7 @@ This repo documents practical tasks and solutions developed during the internshi
 
 ### Task 1: Iris Classification App (Full Stack)
 
-> A full-stack mini project combining a **machine learning model**, **Flask backend**, and **Streamlit frontend**. The application allows users to input features and receive real-time predictions via an API.
+ A full-stack mini project combining a **machine learning model**, **Flask backend**, and **Streamlit frontend**. The application allows users to input features and receive real-time predictions via an API.
 
 - **Flask** API serves the prediction model
 - **Streamlit** UI calls the API
@@ -25,7 +25,7 @@ This repo documents practical tasks and solutions developed during the internshi
 
 ### Task 2: Customer Segmentation – Online Retail Dataset
 
-> A full data science project focused on **customer behavior analysis** and **clustering using RFM and K-Means**.
+ A full data science project focused on **customer behavior analysis** and **clustering using RFM and K-Means**.
 
 - Dataset from UCI (Excel to CSV conversion)
 - Cleaned and transformed data
