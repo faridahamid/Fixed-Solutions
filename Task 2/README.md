@@ -12,7 +12,7 @@ To analyze customer transactions and **segment customers into meaningful groups*
 
 ## Dataset Description
 
-- **Source:** [Online Retail Dataset](./Task%202/Model/Online%20Retail.xlsx%20-%20Online%20Retail.csv)
+- **Source:** [Online Retail Dataset](https://github.com/faridahamid/Fixed-Solutions/blob/main/Task%202/Model/Online%20Retail.xlsx%20-%20Online%20Retail.csv)
 - **Records:** ~500,000 transactions  
 - **Period:** Dec 2010 to Dec 2011  
 - **Fields:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
