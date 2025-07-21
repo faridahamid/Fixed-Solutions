@@ -32,7 +32,6 @@ This repo documents practical tasks and solutions developed during the internshi
 - Monthly sales trend analysis
 - RFM segmentation + clustering
 - Business recommendations and KPIs
-- **Power BI dashboard** and presentation slides included
 
 **Contents:**
 - `/Task 2/Model/` – contains the dataset  
