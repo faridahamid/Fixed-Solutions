@@ -1,3 +1,6 @@
+---
+## Task 1: Iris Classification App (Full Stack)
+
 ### Based On
 
 This project is **cloned and adapted** from the original repo:  
@@ -10,7 +13,6 @@ We extended and **refactored** it into a full-stack application with:
 
 ---
 
-## Task 1: Iris Classification App (Full Stack)
 
 ###  Objective:
 Build a complete machine learning pipeline that:
